@@ -69,6 +69,7 @@ $ python3 -m DaisyXMusic
 - `/search <query>` - search videos on youtube with details
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
+- `/musicplayer [on/off]` - Enable/Disable Music Player
 
 
 #### Admins only.
