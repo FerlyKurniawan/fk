@@ -7,8 +7,8 @@ from typing import Callable
 
 id_user = message.chat.id
 
-@bot.message_handler(commands=['play'])
-def action_start(message)
+@Client.on_message(command("play") & other_filters)
+async def play(_, message: Message):
     user = open('user.txt','r')
     user = user.read ()
     Id_message = message_chat_id
