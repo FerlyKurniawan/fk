@@ -42,7 +42,7 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/Ferlyk19/ferly
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -131,7 +131,7 @@ If you donlt like to play in linked channel:
 DaisyXMusic is a hardwork of many people. Many contributors and open source projects (Specially callsmusic projects) helped a lot in this. 
 
 #### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
+- [Ferly Kurniawan](https://github.com/Ferlyk19): Dev / Owner
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
