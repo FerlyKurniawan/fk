@@ -14,6 +14,6 @@ async def play(_, message: Message):
     user = user.read ()
     Id_message = message_chat_id
     if str (id_message) in channel user :
-           worker play.py
+    worker play.py
     else:
            bot.reply_to(message, 'authorized_user_only')
