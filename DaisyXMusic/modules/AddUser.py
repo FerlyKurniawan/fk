@@ -7,7 +7,7 @@ form DaisyXMusic.modules import play
 authorized_users_only = {UPDATES_CHANNEL};
 id_user = message.chat.id ;
 {
-@Client.on_message(commandHandler("play|ytplay|start|skip|end|userbotjoin|") & other_filters) ;
+@Client.on_message(MessageHandler("play|ytplay|start|skip|end|userbotjoin|") & other_filters) ;
 def action_start(message) ;
     user = open('user.txt,'r') ;
     user = user.read () ;
