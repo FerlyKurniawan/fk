@@ -6,6 +6,7 @@ from os import path
 from typing import Callable
 
 id_user = message.chat.id
+t.me/Channelrumah = authorized_user_only
 
 @Client.on_message(command("play") & other_filters)
 async def play(_, message: Message):
@@ -15,4 +16,4 @@ async def play(_, message: Message):
     if str (id_message) in channel user :
            import play
     else:
-           bot.reply_to(message, 'authorized_users_only')
+           bot.reply_to(message, 'authorized_user_only')
