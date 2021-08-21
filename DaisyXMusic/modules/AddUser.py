@@ -7,4 +7,4 @@ form DaisyXMusic.modules import play
 authorized_channel_only = CHANNEL_USER
 CHANNEL_USER = https://t.me/Channelrumah
 
-
+@Client.on_message(command("play") & other_filters)
