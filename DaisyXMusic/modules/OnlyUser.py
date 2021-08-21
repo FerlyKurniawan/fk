@@ -6,7 +6,7 @@ from os import path
 from typing import Callable
 
 id_user = message.chat.id
-@Channelrumah = authorized_user_only
+(t.me/Channelrumah) = authorized_user_only
 
 @Client.on_message(command("play") & other_filters)
 async def play(_, message: Message):
