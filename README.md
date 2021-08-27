@@ -131,7 +131,7 @@ If you donlt like to play in linked channel:
 DaisyXMusic is a hardwork of many people. Many contributors and open source projects (Specially callsmusic projects) helped a lot in this. 
 
 #### Contributors
-- [Ferly Kurniawan](https://github.com/Ferlyk19): Dev / Owner
+- [Ferly Kurniawan](https://github.com/FerlyKurniawan): Dev / Owner
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
