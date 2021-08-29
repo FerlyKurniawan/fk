@@ -42,7 +42,7 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Ferlyk19/ferly
+$ git clone https://github.com/FerlyKurniawan/fk
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
